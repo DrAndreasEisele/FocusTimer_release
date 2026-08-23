@@ -1,19 +1,18 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
-IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.10.3</title>
-            <pubDate>Sun, 23 Aug 2026 11:41:56 +0200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.10.3</sparkle:shortVersionString>
+            <title>0.10.4</title>
+            <pubDate>Sun, 23 Aug 2026 20:59:50 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.10.3/FocusTimer-v0.10.3.zip" length="1966065" sparkle:edSignature="q3FLDsm9DMqiER6JoPL4wQw1BN5tZ4PWG0L4AtaP4QxzyyqFVTCzqswqhqRyAaUQh5yIvNpNv76o4GGS9ADzCg==" type="application/octet-stream"></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.10.4/FocusTimer-v0.10.4.zip" length="1967910" sparkle:edSignature="UIgv/IGo+ZKWjTdtBPjW6vUvQIyLT9CZSnuKlJljCRx3//LP82jhUKbzOymYnDke7JYq4NxllSpK6mED/ZnIDA==" type="application/octet-stream" sparkle:edSignature="UIgv/IGo+ZKWjTdtBPjW6vUvQIyLT9CZSnuKlJljCRx3//LP82jhUKbzOymYnDke7JYq4NxllSpK6mED/ZnIDA=="/>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6nCiu33rfnbxZK6247GfEsIJC3zOOO9TUxpoRbhnoJUWu0+I1NrDatFuhTnOyDabeaRaYED9Yzv/dtIArhtqDw==
-length: 1146
+edSignature: dTJ8weQk8HLeRy29M5h2MyGo1mnWh9f3i5c7Dm0PL+Jvkuztd27O1QdC2pTYXYRPuqtd1xC8DWmD5mZLROIDBw==
+length: 1011
 -->
