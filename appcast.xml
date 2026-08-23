@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.10.4</title>
-            <pubDate>Sun, 23 Aug 2026 21:02:52 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.10.4</sparkle:shortVersionString>
+            <title>0.10.5</title>
+            <pubDate>Sun, 23 Aug 2026 21:43:19 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.10.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.10.4/FocusTimer-v0.10.4.zip" length="1967910" type="application/octet-stream" sparkle:edSignature="UIgv/IGo+ZKWjTdtBPjW6vUvQIyLT9CZSnuKlJljCRx3//LP82jhUKbzOymYnDke7JYq4NxllSpK6mED/ZnIDA=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.10.5/FocusTimer-v0.10.5.zip" length="1967868" type="application/octet-stream" sparkle:edSignature="wABZ6OmT3fpJ73oiTjs2hfOGRE6zX5H00d41NPLa8z5h1GnxJBjLVeHsp83GpIzIbTzAvXgXJ6VQIn/WlLZ6Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: B+sN/axkuNZUzViOk6w0Cof+Oqb01SqtNzYgy4Fy8KH3ErQulgoNCORNMNZ+lwMx11HPvSuzLJvmqVJ60pVKCg==
+edSignature: RKJoRbUXcinfOIHy4MsnX4KMSAvnh/0s2q6yErWIDseic6cWH4lJAwkM1NXedlqRHyGFHd5+TVneXkQVKSQiCw==
 length: 1146
 -->
