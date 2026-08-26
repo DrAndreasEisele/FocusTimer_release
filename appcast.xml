@@ -4,16 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.10.5</title>
-            <pubDate>Sun, 23 Aug 2026 21:43:19 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.10.5</sparkle:shortVersionString>
+            <title>0.11.0</title>
+            <pubDate>Wed, 26 Aug 2026 18:16:57 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.10.5/FocusTimer-v0.10.5.zip" length="1967868" type="application/octet-stream" sparkle:edSignature="wABZ6OmT3fpJ73oiTjs2hfOGRE6zX5H00d41NPLa8z5h1GnxJBjLVeHsp83GpIzIbTzAvXgXJ6VQIn/WlLZ6Dw=="></enclosure>
+            <description><![CDATA[<p><em>More accurate, more reliable, usable by more people.</em></p>
+<h3>New</h3>
+<ul><li>Support for Reduce Motion and VoiceOver</li><li>Breaks are recorded individually — like all data, only on your Mac</li></ul>
+<h3>Improved</h3>
+<ul><li>Breaks and the countdown now cover every display</li><li>The statistics window responds noticeably faster</li></ul>
+<h3>Fixed</h3>
+<ul><li>Focus blocks ran longer than configured under load</li><li>The timer kept running while the screen was locked</li></ul>
+]]></description>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.11.0/FocusTimer-v0.11.0.zip" length="2889541" type="application/octet-stream" sparkle:edSignature="tdx6NqLTMOz2My56pxEOoxU7CgGRbyYxsCD6Ue950EVgPZLPjqUzw3DgOPeM3vZfwmux3s2ihYf8a7WdcAXjCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RKJoRbUXcinfOIHy4MsnX4KMSAvnh/0s2q6yErWIDseic6cWH4lJAwkM1NXedlqRHyGFHd5+TVneXkQVKSQiCw==
-length: 1146
+edSignature: AbgouZgFfnIgOhjzUIwQnrB4mMcVcDa88vjCi3qIl40/CqNy0CHhynxnyHVTBbvUsoi1tYm9DCxq6tD8Yq62Cg==
+length: 1622
 -->
