@@ -12,12 +12,12 @@
 
 ## 🎯 What is FocusTimer?
 
-**FocusTimer** is a lightweight, native macOS menu bar application engineered to integrate evidence-based cognitive neuroscience into your daily workflow. It prevents mental fatigue and burnout by aligning deep work intervals with autonomic nervous system recovery.
+**FocusTimer** is a lightweight, native macOS menu bar application engineered to integrate evidence-based cognitive neuroscience into your daily workflow. It prevents mental fatigue by aligning deep work intervals with autonomic nervous system recovery.
 
 ### Key Capabilities:
 * ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — in a colour of your choosing.
 * 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 50 minutes by default.
-* 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)** at the 0.1 Hz HRV resonance frequency, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
+* 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)**, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
 * 🎧 **Bilateral Stimulation:** Alternating left/right audio tapping at 60 BPM for cognitive decompression.
 * 👁️ **Screen-Free Breaks:** A guided five-minute pause that asks you to look away from the display entirely.
 * 📊 **On-Device Analytics:** Daily focus-to-break ratio tracking and hourly distribution charts with one-click CSV export.
