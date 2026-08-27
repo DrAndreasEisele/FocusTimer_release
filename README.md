@@ -18,8 +18,9 @@
 * ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — in a colour of your choosing.
 * 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 50 minutes by default.
 * 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)**, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
-* 🎧 **Bilateral Stimulation:** Alternating left/right audio tapping at 60 BPM for cognitive decompression.
-* 👁️ **Screen-Free Breaks:** A guided five-minute pause that asks you to look away from the display entirely.
+* 🫶 **Bilateral Stimulation:** Cross your arms and tap left and right in turn, in time with alternating tones at 60 BPM.
+* 👁️ **Eye Movement:** A focus dot travels slowly from edge to edge, four seconds from centre to edge — a smooth pursuit movement that releases the fixed near focus a screen imposes.
+* 🌙 **Screen-Free Breaks:** A guided five-minute pause that asks you to look away from the display entirely.
 * 📊 **On-Device Analytics:** Daily focus-to-break ratio tracking and hourly distribution charts with one-click CSV export.
 * 🚀 **Starts With Your Session:** Optionally launches at login — a menu bar app that is not running cannot remind you of anything.
 
