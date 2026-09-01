@@ -4,23 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.15.0</title>
-            <pubDate>Tue, 01 Sep 2026 16:51:39 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <title>0.15.1</title>
+            <pubDate>Tue, 01 Sep 2026 19:50:43 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>The long break gets a face of its own.</em></p>
-<h3>New</h3>
-<ul><li>The five minute break offers three fixed recoveries: breathing, bilateral, screen-free</li><li>Breathing lets you pick the rhythm there — your setting stays the default</li></ul>
-<h3>Improved</h3>
-<ul><li>The eye movement left the long break: five minutes of tracking a dot is not recovery</li><li>The launch-at-login notice now says what is true instead of blaming a development build</li></ul>
+            <description><![CDATA[<p><em>Launch at login can actually be switched on now.</em></p>
 <h3>Fixed</h3>
-<ul><li>Found updates stayed hidden behind other windows — FocusTimer now comes forward</li></ul>
+<ul><li>The launch-at-login switch was disabled before the attempt was ever made</li><li>If macOS refuses, its own reason is shown instead of a guess</li></ul>
+<h3>Improved</h3>
+<ul><li>When launch at login waits for your approval, one click opens System Settings</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.15.0/FocusTimer-v0.15.0.zip" length="7877829" type="application/octet-stream" sparkle:edSignature="r/byanHhxMwKatYk+6D0ScThGyMm+pGDJNF+Przkc27DJ+te5krnxEr1dwGHXXYndSjnUOl9SCqEXNKy9PQrAQ=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.15.1/FocusTimer-v0.15.1.zip" length="7887158" type="application/octet-stream" sparkle:edSignature="IQDXHcuHlJbfMR8z/c2WHrMatUAYRp96HXkjLts4BZch5qSPWufuTDTQOrcOS3KeubULMPYEdFMtJpL3Qu+dAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WTYAx7ot98DC3TPoTiUi/hcX7fNf4jciS4hltO/qfmenzaF0R9F9Nie7jP4jbCYAEwuGiubDwZD+Z6VOo1wyDA==
-length: 1709
+edSignature: 7HkXZxczA/nlOWUEOc1urpDsA3drc+sb9Tp7ib6a7Nc9faMDht5GgF9dgeKzhW9sINhsqy1ZcYkGFYvpztONDg==
+length: 1474
 -->
