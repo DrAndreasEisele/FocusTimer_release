@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.13.0</title>
-            <pubDate>Mon, 31 Aug 2026 14:29:41 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <title>0.14.0</title>
+            <pubDate>Tue, 01 Sep 2026 15:52:51 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>Two new breaks, honest numbers.</em></p>
+            <description><![CDATA[<p><em>Breathe with the moon.</em></p>
 <h3>New</h3>
-<ul><li>New exercise “Eye Movement”: your gaze follows a travelling dot — on by default</li><li>New exercise “Window Gaze”: look outside and find one thing you never noticed</li><li>FocusTimer can start at login, switchable in Settings</li></ul>
+<ul><li>The moon as a second breathing motif: breathe in towards full, out back to a crescent</li><li>Choose it in Settings under “Breathing” — the circle stays the default</li></ul>
 <h3>Improved</h3>
-<ul><li>Fuller, less beepy tones — the two shriller sound profiles are gone</li><li>Every exercise ends the same way, and each setting sits under its exercise&#x27;s name</li><li>FocusTimer now runs on macOS 26.1 instead of requiring 26.3</li></ul>
+<ul><li>The day starts with the breathing exercise again, whichever one came last</li><li>Icons and clearer grouping in Settings, and no more icons inside the exercise text</li><li>The menu shows the version and date of the build you are running</li></ul>
 <h3>Fixed</h3>
-<ul><li>Breaks were counted twice, or as the wrong kind, in your statistics</li><li>The daily check for updates was invisible and could not be switched off</li></ul>
+<ul><li>The resize cursor stuck between the menu bar and the window</li><li>Tones could make the animation stutter; the two now run independently</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.13.0/FocusTimer-v0.13.0.zip" length="3031256" type="application/octet-stream" sparkle:edSignature="IGH9B+G0gKSgcpAXC4jkhWpdvKIvnpb9PvsrvQYrzIiaHleLvUtzS18zo+r8Mo/bp0UTJFxQUw9eBJpaRhfRCA=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.14.0/FocusTimer-v0.14.0.zip" length="7858808" type="application/octet-stream" sparkle:edSignature="2hBHa39A8RH/cW/UbFRBtL8ZW74AV5qX8FWed4b1hwMZiCJZECzVsEzvVMq8ILpp4+Ga9ulmOQoXJBsQf5lABQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EscKrKYFUKq4kxQRxEUlian9t9ZXLtU5xkSvPaDTxygBT7ApQazEzFTjkEu9cdIoZtcAgnbHhNECrowcwWnUCQ==
-length: 1887
+edSignature: Eymnz6okbGy2i5aYdsaT+DGCB21nLrt6mrHWg628L17mIcUWzPndgO94ebnOwtkt7rfD0fXCte5/84S6vcm7Bw==
+length: 1806
 -->
