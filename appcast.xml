@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.15.1</title>
-            <pubDate>Tue, 01 Sep 2026 19:50:43 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+            <title>0.15.2</title>
+            <pubDate>Tue, 01 Sep 2026 19:58:28 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>Launch at login can actually be switched on now.</em></p>
-<h3>Fixed</h3>
-<ul><li>The launch-at-login switch was disabled before the attempt was ever made</li><li>If macOS refuses, its own reason is shown instead of a guess</li></ul>
+            <description><![CDATA[<p><em>The update check now has a fixed time.</em></p>
 <h3>Improved</h3>
-<ul><li>When launch at login waits for your approval, one click opens System Settings</li></ul>
+<ul><li>The daily update check runs at 10 am instead of at a drifting hour</li><li>Settings and the readme name the hour, so the two say the same thing</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.15.1/FocusTimer-v0.15.1.zip" length="7887158" type="application/octet-stream" sparkle:edSignature="IQDXHcuHlJbfMR8z/c2WHrMatUAYRp96HXkjLts4BZch5qSPWufuTDTQOrcOS3KeubULMPYEdFMtJpL3Qu+dAg=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.15.2/FocusTimer-v0.15.2.zip" length="7890931" type="application/octet-stream" sparkle:edSignature="O8pCraPP+bG0WrQGa26e8ZDZrIS5fyFW+paevIvg6GVx5IqevDFxVg91UQnS/ReS6tzM0Gpa6S7X6UfPkGChDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7HkXZxczA/nlOWUEOc1urpDsA3drc+sb9Tp7ib6a7Nc9faMDht5GgF9dgeKzhW9sINhsqy1ZcYkGFYvpztONDg==
-length: 1474
+edSignature: 0mHOJTjRrrZmbNH+jcpIhPEy8UspPiTWQEQEh5+vGVvlP2dlwhV8xCucL90iIv65xPF2RwXlT/gEX9bK3FOYAA==
+length: 1355
 -->
