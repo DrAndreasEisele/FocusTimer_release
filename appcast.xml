@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.15.2</title>
-            <pubDate>Tue, 01 Sep 2026 19:58:28 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
+            <title>0.16.0</title>
+            <pubDate>Wed, 02 Sep 2026 15:48:32 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>The update check now has a fixed time.</em></p>
-<h3>Improved</h3>
-<ul><li>The daily update check runs at 10 am instead of at a drifting hour</li><li>Settings and the readme name the hour, so the two say the same thing</li></ul>
+            <description><![CDATA[<p><em>A reminder when the focus block never happens.</em></p>
+<h3>New</h3>
+<ul><li>After half an hour at your Mac without a focus block, a short offer to start one appears in the top right</li><li>At most once in the morning and once in the afternoon, only between 6 am and 8 pm, switchable off under Settings › Focus</li><li>It reads only how many seconds have passed since your last input — not what you are doing; nothing is stored and nothing is sent</li></ul>
+<h3>Fixed</h3>
+<ul><li>&quot;+1 min&quot; extended the breathing exercise by up to 80 seconds instead of one minute — nearly a doubling at six cycles</li><li>The button now shows that it was pressed and names the time it credited</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.15.2/FocusTimer-v0.15.2.zip" length="7890931" type="application/octet-stream" sparkle:edSignature="O8pCraPP+bG0WrQGa26e8ZDZrIS5fyFW+paevIvg6GVx5IqevDFxVg91UQnS/ReS6tzM0Gpa6S7X6UfPkGChDA=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.16.0/FocusTimer-v0.16.0.zip" length="7962829" type="application/octet-stream" sparkle:edSignature="HNu7FIaLMIEn5dTop6Mh0xPIpZaPY+sux5A91Y1lIpKoSfFSYjRVWzWahM9y0Ru/Igbk06mr+Ct3UiDLFy6BBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0mHOJTjRrrZmbNH+jcpIhPEy8UspPiTWQEQEh5+vGVvlP2dlwhV8xCucL90iIv65xPF2RwXlT/gEX9bK3FOYAA==
-length: 1355
+edSignature: vctmPtoQty9riT2mrONdikFByqcsZRYG1lkeS81SmqYuAPwokxVVaxrk1AEGecnfGnD6ksS3rgfWhfFviOJSDA==
+length: 1832
 -->
