@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.16.1</title>
-            <pubDate>Thu, 03 Sep 2026 09:06:12 +0200</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+            <title>0.17.0</title>
+            <pubDate>Thu, 03 Sep 2026 14:56:58 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>Maintenance release with no functional changes.</em></p>
+            <description><![CDATA[<p><em>FocusTimer can now be reached without the menu bar.</em></p>
+<h3>New</h3>
+<ul><li>A window with the same controls as the menu — opened from Spotlight when there is no room left for the icon in the menu bar</li><li>While that window is open FocusTimer appears in the dock. Pin it there once and the app is always one click away</li><li>Clicking the menu bar icon closes the window again</li></ul>
 <h3>Improved</h3>
-<ul><li>No changes to the app — this version exists to verify the automatic update path itself</li><li>Everything from 0.16.0 stays as it is: the focus block reminder and the corrected breathing extension</li></ul>
+<ul><li>When an update has been downloaded, the menu offers &quot;Restart to Update&quot; — it used to wait unnoticed for the app to be quit some day</li><li>The readme explains why the icon disappears from a crowded menu bar, and the two things that fix it</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.16.1/FocusTimer-v0.16.1.zip" length="7963889" type="application/octet-stream" sparkle:edSignature="/7X73MH+Gys/KB0hxsjrVSbCUObOq+5dSUCDFoEUjbVeYedGAFAuv2Oz5t3CIjpvU6qoyK1ZQ1UKc1eUFEktCg=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.17.0/FocusTimer-v0.17.0.zip" length="7984627" type="application/octet-stream" sparkle:edSignature="0u4GScovFxz/SKdRdUjSeb/S4r72yHIkpFFCd4bo13f/UXlJ+qKbJOG2FJ64zcB+tyv9rYOZbopftWqOXmXDAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TkCE8yC64dO0jWSTjWpdMp8yPqEAcyrvtgP9nioBsl22ESfHAhMJ/EEPAedvaQBdOA6eGe/CbPQe34iAnOh+CQ==
-length: 1419
+edSignature: +gHG/FQCpfOGp6wIubwkiw/+t61IWZPwJp/9HJMUdeQifE1//TlJyWnrE9n7MDE9xsfO41JVlJzeY4XimTUfCQ==
+length: 1813
 -->
