@@ -4,19 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.17.1</title>
-            <pubDate>Thu, 03 Sep 2026 17:46:30 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
+            <title>0.18.0</title>
+            <pubDate>Fri, 04 Sep 2026 11:37:30 +0200</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>A drawing glitch in the menu is fixed.</em></p>
+            <description><![CDATA[<p><em>More choice before a break — and every exercise now starts the same way.</em></p>
+<h3>New</h3>
+<ul><li>Any exercise can be swapped for the breathing break before it starts</li><li>A break can be postponed by two minutes, once per interruption</li><li>The recovery break&#x27;s length is adjustable: two to ten minutes, five still recommended</li></ul>
+<h3>Improved</h3>
+<ul><li>All start screens share one layout, with a green start button and the exercise&#x27;s symbol</li><li>&quot;Restart to Update&quot; is now a clearly visible button</li></ul>
 <h3>Fixed</h3>
-<ul><li>After the window closed, the menu showed &quot;Log sessions locally&quot; without its tick although logging was still on</li><li>The window now closes a moment later, so the menu is drawn undisturbed</li></ul>
+<ul><li>The menu showed &quot;Log sessions locally&quot; without its tick although logging was still on</li><li>A postponed break was counted as taken and cleared the long-focus warning — neither happens now</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.17.1/FocusTimer-v0.17.1.zip" length="7986975" type="application/octet-stream" sparkle:edSignature="bl4S/tbNT6TTLpdV5EMkSoEKivjahfKxHw9W3pV4EjkxzxtfmULfV43h1MPVgXaeoEkfqYxh1YvT7Lgd61szCA=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.18.0/FocusTimer-v0.18.0.zip" length="7958169" type="application/octet-stream" sparkle:edSignature="ZCIfcKFWbThrX350E7nUzURqHq+3cAARV1aWzbIV/DtYwhDYZbepTOIv+rAJbjfHDxu9YlkK+RF5tbgddVWDDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QG7qBWH4BLWuUxDel1NQjVGgt8z8Tb0F0LWFRGqYh+VSw9NMkNE2/LOiMsN59BmgzRFczoqjhjs9t93FHL9qDg==
-length: 1408
+edSignature: 73sB88ibjlnum2MY/GNb2Eh2Wu+g8tcXOp7mNlghl0BtJnF5P4HxV35RSH6Jd5K0uINupAC838x0Fz3PHGrqDg==
+length: 1915
 -->
