@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.18.0</title>
-            <pubDate>Fri, 04 Sep 2026 11:37:30 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <title>0.19.0</title>
+            <pubDate>Mon, 07 Sep 2026 15:32:33 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>More choice before a break — and every exercise now starts the same way.</em></p>
+            <description><![CDATA[<p><em>A new standing stretch break — with a figure that shows the movement.</em></p>
 <h3>New</h3>
-<ul><li>Any exercise can be swapped for the breathing break before it starts</li><li>A break can be postponed by two minutes, once per interruption</li><li>The recovery break&#x27;s length is adjustable: two to ten minutes, five still recommended</li></ul>
+<ul><li>Standing stretch break: shoulders, chest and neck, guided by a figure inside the ring</li><li>Optionally with calf raises as a fourth movement — switchable in settings</li><li>The recovery break now opens guided; after that the screen goes quiet</li><li>In the final minute you can start the break early instead of waiting out the countdown</li></ul>
 <h3>Improved</h3>
-<ul><li>All start screens share one layout, with a green start button and the exercise&#x27;s symbol</li><li>&quot;Restart to Update&quot; is now a clearly visible button</li></ul>
+<ul><li>The eye movement is no longer on by default — there is no research behind it, while stretching and breathing are supported. It stays available in settings</li><li>The continuous-focus limit is now 75 minutes instead of 50, unless you have moved the slider yourself</li><li>Among the long breaks, the screen-free one is now marked as the recommendation</li></ul>
 <h3>Fixed</h3>
-<ul><li>The menu showed &quot;Log sessions locally&quot; without its tick although logging was still on</li><li>A postponed break was counted as taken and cleared the long-focus warning — neither happens now</li></ul>
+<ul><li>Cancelling an exercise with ESC left its tones playing</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.18.0/FocusTimer-v0.18.0.zip" length="7958169" type="application/octet-stream" sparkle:edSignature="ZCIfcKFWbThrX350E7nUzURqHq+3cAARV1aWzbIV/DtYwhDYZbepTOIv+rAJbjfHDxu9YlkK+RF5tbgddVWDDA=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.19.0/FocusTimer-v0.19.0.zip" length="8115902" type="application/octet-stream" sparkle:edSignature="lM0+LBHHgaQJv7nSzNiWew8QsaF1dT6+XlbFh6M3+3aR0uIH+G3E9svAAAQCnP/kUKw+A5jiXrQcnGL+lcuLAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 73sB88ibjlnum2MY/GNb2Eh2Wu+g8tcXOp7mNlghl0BtJnF5P4HxV35RSH6Jd5K0uINupAC838x0Fz3PHGrqDg==
-length: 1915
+edSignature: S21rOJEFGmBja3obgZz7PxFnLPT4U0PqCbpx2k1KV7SG3SAAYaIMLtEc7xvfe3tpG6K6cMbz2pYBEHyxwgxlBw==
+length: 2060
 -->
