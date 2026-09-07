@@ -4,23 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusTimer</title>
         <item>
-            <title>0.19.0</title>
-            <pubDate>Mon, 07 Sep 2026 15:32:33 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <title>0.19.1</title>
+            <pubDate>Mon, 07 Sep 2026 18:15:33 +0200</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><em>A new standing stretch break — with a figure that shows the movement.</em></p>
-<h3>New</h3>
-<ul><li>Standing stretch break: shoulders, chest and neck, guided by a figure inside the ring</li><li>Optionally with calf raises as a fourth movement — switchable in settings</li><li>The recovery break now opens guided; after that the screen goes quiet</li><li>In the final minute you can start the break early instead of waiting out the countdown</li></ul>
+            <description><![CDATA[<p><em>Two corrections around starting the break early.</em></p>
 <h3>Improved</h3>
-<ul><li>The eye movement is no longer on by default — there is no research behind it, while stretching and breathing are supported. It stays available in settings</li><li>The continuous-focus limit is now 75 minutes instead of 50, unless you have moved the slider yourself</li><li>Among the long breaks, the screen-free one is now marked as the recommendation</li></ul>
+<ul><li>The play button in the countdown window now sits inside a ring, so it reads as a button</li><li>Ring and triangle light up in your accent colour on hover</li></ul>
 <h3>Fixed</h3>
-<ul><li>Cancelling an exercise with ESC left its tones playing</li></ul>
+<ul><li>A block ended early with the play button counts in full towards the recovery break again — until now that break arrived one block late</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.19.0/FocusTimer-v0.19.0.zip" length="8115902" type="application/octet-stream" sparkle:edSignature="lM0+LBHHgaQJv7nSzNiWew8QsaF1dT6+XlbFh6M3+3aR0uIH+G3E9svAAAQCnP/kUKw+A5jiXrQcnGL+lcuLAg=="></enclosure>
+            <enclosure url="https://github.com/DrAndreasEisele/FocusTimer_release/releases/download/v0.19.1/FocusTimer-v0.19.1.zip" length="8124794" type="application/octet-stream" sparkle:edSignature="xGg+BqywOvdXrp4PTf2EVZCXF60J9gv+3C50DSGRfvZRsvjd0smuLvY8mNo/uq+Ro/820Nlj6Pv34FfN1qByDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: S21rOJEFGmBja3obgZz7PxFnLPT4U0PqCbpx2k1KV7SG3SAAYaIMLtEc7xvfe3tpG6K6cMbz2pYBEHyxwgxlBw==
-length: 2060
+edSignature: Wj7QFtTYrPEX3h4HEI6KqDeAru787E3lesevi8cNwy2I56xxotLJJZ8Xu/o2R8+UfFoHvZqbd1FKSTSVz0CJCQ==
+length: 1545
 -->
