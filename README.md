@@ -26,10 +26,10 @@
 
 ### Key Capabilities:
 * ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — in a colour of your choosing.
-* 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 50 minutes by default.
+* 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 75 minutes by default.
 * 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)**, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
 * 🫶 **Bilateral Stimulation:** Cross your arms and tap left and right in turn, in time with alternating tones at 60 BPM.
-* 👁️ **Eye Movement:** A focus dot travels from edge to edge at a pace the eye can actually follow — a smooth pursuit movement that releases the fixed near focus a screen imposes.
+* 🤸 **Standing Stretch:** Stand up, then loosen shoulders, chest and neck in a short fixed sequence — the one exercise that gets you out of the chair.
 * 🪟 **Window Gaze:** Look out of the window for ninety seconds and search for one thing you have never noticed before — a short break for the eyes and for the attention.
 * 🌙 **Screen-Free Breaks:** A guided five-minute pause that asks you to look away from the display entirely.
 * 📊 **On-Device Analytics:** Daily focus-to-break ratio tracking and hourly distribution charts with one-click CSV export.
