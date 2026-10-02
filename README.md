@@ -15,17 +15,18 @@
 **FocusTimer** is a lightweight, native macOS menu bar application engineered to integrate evidence-based cognitive neuroscience into your daily workflow. It prevents mental fatigue by aligning deep work intervals with autonomic nervous system recovery.
 
 <p align="center">
-  <img src="docs/screenshots/menu-start.png" height="400" alt="FocusTimer menu: choose 15, 25 or 45 minutes or a custom duration, then Start Timer">
+  <img src="docs/screenshots/menu-start.png" height="400" alt="FocusTimer menu: choose 15, 25 or 45 minutes or a custom duration, then Start Timer or Take a break now">
   &nbsp;&nbsp;
-  <img src="docs/screenshots/menu-running.png" height="400" alt="FocusTimer menu during a focus block: countdown, progress bar, Pause and Cancel, weekly overview of focus minutes">
+  <img src="docs/screenshots/menu-running.png" height="400" alt="FocusTimer menu during a focus block: countdown, progress bar, Pause and Cancel, Take a break now">
 </p>
 <p align="center">
-  <img src="docs/screenshots/menubar-countdown.png" width="324" alt="The remaining time shown next to the FocusTimer icon in the macOS menu bar">
+  <img src="docs/screenshots/menubar-countdown.png" width="201" alt="The remaining time shown next to the FocusTimer icon in the macOS menu bar">
 </p>
-<p align="center"><sub>Choose a duration · a running focus block with your weekly overview · the countdown in the menu bar</sub></p>
+<p align="center"><sub>Choose a duration · a running focus block · the countdown in the menu bar</sub></p>
 
 ### Key Capabilities:
 * ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — in a colour of your choosing.
+* ▶️ **Take a Break Now:** One click in the menu starts a break straight away — for instance while an AI tool is working. A running block counts with the time you actually worked.
 * 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 75 minutes by default.
 * 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)**, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
 * 🫶 **Bilateral Stimulation:** Cross your arms and tap left and right in turn, in time with alternating tones at 60 BPM.
