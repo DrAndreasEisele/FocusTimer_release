@@ -25,14 +25,14 @@
 <p align="center"><sub>Choose a duration · a running focus block · the countdown in the menu bar</sub></p>
 
 ### Key Capabilities:
-* ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — in a colour of your choosing.
+* ⏱️ **Distraction-Free Focus Blocks:** Customizable timer durations (25 minutes by default) with a subtle menu bar readout and a floating countdown in the final minute — two minutes ahead of the long recovery break, in a colour of your choosing. A soft tone announces the break; it can be switched off.
 * ▶️ **Take a Break Now:** One click in the menu starts a break straight away — for instance while an AI tool is working. A running block counts with the time you actually worked.
 * 🧠 **Science-Backed Microbreaks:** Recovery is offered automatically once continuous focus passes a threshold you set, 75 minutes by default.
 * 🌬️ **Guided Breathing Protocols:** Parasympathetic activation through **Balance (Coherence)**, **Focus (Box Breathing)**, and **Slow Down (Focus Pause)**. The circle fills the screen and shifts colour with your breath, and every phase — including the holds — has its own tone, so an exercise can be followed with the eyes closed.
 * 🫶 **Bilateral Stimulation:** Cross your arms and tap left and right in turn, in time with alternating tones at 60 BPM.
 * 🤸 **Standing Stretch:** Stand up, then loosen shoulders, chest and neck in a short fixed sequence — the one exercise that gets you out of the chair.
 * 🪟 **Window Gaze:** Look out of the window for ninety seconds and search for one thing you have never noticed before — a short break for the eyes and for the attention.
-* 🌙 **Screen-Free Breaks:** A guided five-minute pause that asks you to look away from the display entirely.
+* 🌙 **Screen-Free Breaks:** A five-minute pause away from the display entirely — optionally opened with a short guided stretch.
 * 📊 **On-Device Analytics:** Daily focus-to-break ratio tracking and hourly distribution charts with one-click CSV export.
 * 🔔 **A Reminder to Start One:** After half an hour at the Mac without a focus block, a small offer appears in the corner — at most once in the morning and once in the afternoon, never outside working hours, and switchable off.
 * 🚀 **Starts With Your Session:** Optionally launches at login — a menu bar app that is not running cannot remind you of anything.
